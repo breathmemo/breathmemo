@@ -1,5 +1,7 @@
 ### 👋 Hi there. I'm SeongTaek Lee.
 
+[https://breathmemo.github.io/resume/](https://breathmemo.github.io/resume/)
+
 <img src="https://img.shields.io/badge/breathmemo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ---
